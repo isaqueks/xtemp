@@ -1,2 +1,3 @@
 # xtemp
-CPU temperature graph for Linux
+CPU temperature graph for Linux  
+Dependency: sensors
